@@ -1,0 +1,10 @@
+body {
+    color: white;
+    background: #000;
+    text-align: center;
+}
+a {
+    color:aqua;
+    text-decoration: azure;
+}
+a:hover {text-decoration: darkorange;}
